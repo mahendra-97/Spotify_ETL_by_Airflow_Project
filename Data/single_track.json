@@ -1,0 +1,106 @@
+{
+    "tracks": [
+        {
+            "album": {
+                "album_type": "compilation",
+                "artists": [
+                    {
+                        "external_urls": {
+                            "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+                        },
+                        "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+                        "id": "0LyfQWJT6nXafLPZqxe9Of",
+                        "name": "Various Artists",
+                        "type": "artist",
+                        "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+                    }
+                ],
+                "external_urls": {
+                    "spotify": "https://open.spotify.com/album/5sMovvp4SR99laIsnzfwJE"
+                },
+                "href": "https://api.spotify.com/v1/albums/5sMovvp4SR99laIsnzfwJE",
+                "id": "5sMovvp4SR99laIsnzfwJE",
+                "images": [
+                    {
+                        "height": 640,
+                        "url": "https://i.scdn.co/image/ab67616d0000b2731bea41b64855e2efd68d5fcb",
+                        "width": 640
+                    },
+                    {
+                        "height": 300,
+                        "url": "https://i.scdn.co/image/ab67616d00001e021bea41b64855e2efd68d5fcb",
+                        "width": 300
+                    },
+                    {
+                        "height": 64,
+                        "url": "https://i.scdn.co/image/ab67616d000048511bea41b64855e2efd68d5fcb",
+                        "width": 64
+                    }
+                ],
+                "is_playable": true,
+                "name": "A.R. Rahman All Time Favourites",
+                "release_date": "2022-06-16",
+                "release_date_precision": "day",
+                "total_tracks": 16,
+                "type": "album",
+                "uri": "spotify:album:5sMovvp4SR99laIsnzfwJE"
+            },
+            "artists": [
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+                    "id": "1mYsTxnqsietFxj1OgoGbG",
+                    "name": "A.R. Rahman",
+                    "type": "artist",
+                    "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/3gBKY0y3dFFVRqicLnVZYz",
+                    "id": "3gBKY0y3dFFVRqicLnVZYz",
+                    "name": "Alka Yagnik",
+                    "type": "artist",
+                    "uri": "spotify:artist:3gBKY0y3dFFVRqicLnVZYz"
+                },
+                {
+                    "external_urls": {
+                        "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+                    },
+                    "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+                    "id": "4YRxDV8wJFPHPTeXepOstw",
+                    "name": "Arijit Singh",
+                    "type": "artist",
+                    "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+                }
+            ],
+            "disc_number": 1,
+            "duration_ms": 341054,
+            "explicit": false,
+            "external_ids": {
+                "isrc": "INS181501796"
+            },
+            "external_urls": {
+                "spotify": "https://open.spotify.com/track/7aYW9bfmULF9q2hwe2HtpU"
+            },
+            "href": "https://api.spotify.com/v1/tracks/7aYW9bfmULF9q2hwe2HtpU",
+            "id": "7aYW9bfmULF9q2hwe2HtpU",
+            "is_local": false,
+            "is_playable": true,
+            "name": "Agar Tum Saath Ho (From \"Tamasha\")",
+            "popularity": 54,
+            "preview_url": "https://p.scdn.co/mp3-preview/f56a2b1917dd2a632085936baf1253e0758420d0?cid=d373fb6560d24ad5a0cfed75ae7c1e64",
+            "track_number": 3,
+            "type": "track",
+            "uri": "spotify:track:7aYW9bfmULF9q2hwe2HtpU"
+        },
+        {
+
+            
+        }
+        
+    ]
+}

@@ -1,0 +1,984 @@
+{
+  "tracks": [
+    {
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5sMovvp4SR99laIsnzfwJE"
+        },
+        "href": "https://api.spotify.com/v1/albums/5sMovvp4SR99laIsnzfwJE",
+        "id": "5sMovvp4SR99laIsnzfwJE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731bea41b64855e2efd68d5fcb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021bea41b64855e2efd68d5fcb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511bea41b64855e2efd68d5fcb",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "A.R. Rahman All Time Favourites",
+        "release_date": "2022-06-16",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5sMovvp4SR99laIsnzfwJE"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz"
+          },
+          "href": "https://api.spotify.com/v1/artists/3gBKY0y3dFFVRqicLnVZYz",
+          "id": "3gBKY0y3dFFVRqicLnVZYz",
+          "name": "Alka Yagnik",
+          "type": "artist",
+          "uri": "spotify:artist:3gBKY0y3dFFVRqicLnVZYz"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 341054,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INS181501796"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7aYW9bfmULF9q2hwe2HtpU"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7aYW9bfmULF9q2hwe2HtpU",
+      "id": "7aYW9bfmULF9q2hwe2HtpU",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Agar Tum Saath Ho (From \"Tamasha\")",
+      "popularity": 54,
+      "preview_url": "https://p.scdn.co/mp3-preview/f56a2b1917dd2a632085936baf1253e0758420d0?cid=d373fb6560d24ad5a0cfed75ae7c1e64",
+      "track_number": 3,
+      "type": "track",
+      "uri": "spotify:track:7aYW9bfmULF9q2hwe2HtpU"
+    },
+    {
+      "album": {
+        "album_type": "single",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+            "id": "1mYsTxnqsietFxj1OgoGbG",
+            "name": "A.R. Rahman",
+            "type": "artist",
+            "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+            },
+            "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+            "id": "4YRxDV8wJFPHPTeXepOstw",
+            "name": "Arijit Singh",
+            "type": "artist",
+            "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+            },
+            "href": "https://api.spotify.com/v1/artists/12CpR4SNDzVIlDoPSeNFeW",
+            "id": "12CpR4SNDzVIlDoPSeNFeW",
+            "name": "Shashaa Tirupati",
+            "type": "artist",
+            "uri": "spotify:artist:12CpR4SNDzVIlDoPSeNFeW"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/2L1otdfoUvp3MKdaT4knVK"
+        },
+        "href": "https://api.spotify.com/v1/albums/2L1otdfoUvp3MKdaT4knVK",
+        "id": "2L1otdfoUvp3MKdaT4knVK",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273004f83c1be7d66c4677b32a8",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02004f83c1be7d66c4677b32a8",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851004f83c1be7d66c4677b32a8",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Rait Zara Si (From \"Atrangi Re\")",
+        "release_date": "2021-12-06",
+        "release_date_precision": "day",
+        "total_tracks": 1,
+        "type": "album",
+        "uri": "spotify:album:2L1otdfoUvp3MKdaT4knVK"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/12CpR4SNDzVIlDoPSeNFeW"
+          },
+          "href": "https://api.spotify.com/v1/artists/12CpR4SNDzVIlDoPSeNFeW",
+          "id": "12CpR4SNDzVIlDoPSeNFeW",
+          "name": "Shashaa Tirupati",
+          "type": "artist",
+          "uri": "spotify:artist:12CpR4SNDzVIlDoPSeNFeW"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 291462,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INS182115958"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4uK0M8AI6gyFmyzUneQpbi"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4uK0M8AI6gyFmyzUneQpbi",
+      "id": "4uK0M8AI6gyFmyzUneQpbi",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Rait Zara Si (From \"Atrangi Re\")",
+      "popularity": 77,
+      "preview_url": "https://p.scdn.co/mp3-preview/b626014c04cd19bab8c4b82825528fb849b6c5bc?cid=d373fb6560d24ad5a0cfed75ae7c1e64",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:4uK0M8AI6gyFmyzUneQpbi"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+            "id": "1mYsTxnqsietFxj1OgoGbG",
+            "name": "A.R. Rahman",
+            "type": "artist",
+            "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3Ha8CM9px7D2fn25K4ijl6"
+        },
+        "href": "https://api.spotify.com/v1/albums/3Ha8CM9px7D2fn25K4ijl6",
+        "id": "3Ha8CM9px7D2fn25K4ijl6",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273007759a309e7364ffc5f664a",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02007759a309e7364ffc5f664a",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851007759a309e7364ffc5f664a",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "OK Jaanu (Original Motion Picture Soundtrack)",
+        "release_date": "2017-01-04",
+        "release_date_precision": "day",
+        "total_tracks": 8,
+        "type": "album",
+        "uri": "spotify:album:3Ha8CM9px7D2fn25K4ijl6"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          },
+          "href": "https://api.spotify.com/v1/artists/4YRxDV8wJFPHPTeXepOstw",
+          "id": "4YRxDV8wJFPHPTeXepOstw",
+          "name": "Arijit Singh",
+          "type": "artist",
+          "uri": "spotify:artist:4YRxDV8wJFPHPTeXepOstw"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 213632,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INS171603185"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/6bdpj89aYEBjhpsenXAsmO"
+      },
+      "href": "https://api.spotify.com/v1/tracks/6bdpj89aYEBjhpsenXAsmO",
+      "id": "6bdpj89aYEBjhpsenXAsmO",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Enna Sona",
+      "popularity": 75,
+      "preview_url": "https://p.scdn.co/mp3-preview/1018260b77afebd19cb893476643c826eaca8459?cid=d373fb6560d24ad5a0cfed75ae7c1e64",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:6bdpj89aYEBjhpsenXAsmO"
+    },
+    {
+      "album": {
+        "album_type": "compilation",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+            },
+            "href": "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+            "id": "0LyfQWJT6nXafLPZqxe9Of",
+            "name": "Various Artists",
+            "type": "artist",
+            "uri": "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/5sMovvp4SR99laIsnzfwJE"
+        },
+        "href": "https://api.spotify.com/v1/albums/5sMovvp4SR99laIsnzfwJE",
+        "id": "5sMovvp4SR99laIsnzfwJE",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731bea41b64855e2efd68d5fcb",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021bea41b64855e2efd68d5fcb",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511bea41b64855e2efd68d5fcb",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "A.R. Rahman All Time Favourites",
+        "release_date": "2022-06-16",
+        "release_date_precision": "day",
+        "total_tracks": 16,
+        "type": "album",
+        "uri": "spotify:album:5sMovvp4SR99laIsnzfwJE"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/281Vp9LDrWkHMHQzfQHWCt"
+          },
+          "href": "https://api.spotify.com/v1/artists/281Vp9LDrWkHMHQzfQHWCt",
+          "id": "281Vp9LDrWkHMHQzfQHWCt",
+          "name": "Rashid Ali",
+          "type": "artist",
+          "uri": "spotify:artist:281Vp9LDrWkHMHQzfQHWCt"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 218836,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INS180804909"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/0IBb4UQMbRfoVdHJpmrRn4"
+      },
+      "href": "https://api.spotify.com/v1/tracks/0IBb4UQMbRfoVdHJpmrRn4",
+      "id": "0IBb4UQMbRfoVdHJpmrRn4",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Kabhi Kabhi Aditi (From \"Jaane Tu... Ya Jaane Na\")",
+      "popularity": 51,
+      "preview_url": "https://p.scdn.co/mp3-preview/e7e8c3b12359d170438a8e3a7c92905b4b96b318?cid=d373fb6560d24ad5a0cfed75ae7c1e64",
+      "track_number": 9,
+      "type": "track",
+      "uri": "spotify:track:0IBb4UQMbRfoVdHJpmrRn4"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+            "id": "1mYsTxnqsietFxj1OgoGbG",
+            "name": "A.R. Rahman",
+            "type": "artist",
+            "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/60Omt7taTKwehAq1gETKCW"
+        },
+        "href": "https://api.spotify.com/v1/albums/60Omt7taTKwehAq1gETKCW",
+        "id": "60Omt7taTKwehAq1gETKCW",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27346131d4d7919c5cacd15c7d3",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0246131d4d7919c5cacd15c7d3",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485146131d4d7919c5cacd15c7d3",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Jodhaa Akbar (Original Motion Picture Soundtrack)",
+        "release_date": "2007-12-31",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:60Omt7taTKwehAq1gETKCW"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+          },
+          "href": "https://api.spotify.com/v1/artists/4W91bbPB2CTSsHwt7eqNl7",
+          "id": "4W91bbPB2CTSsHwt7eqNl7",
+          "name": "Javed Ali",
+          "type": "artist",
+          "uri": "spotify:artist:4W91bbPB2CTSsHwt7eqNl7"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 315173,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INS170709394"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/1O5mTSQa0sCce9ghhDqIZl"
+      },
+      "href": "https://api.spotify.com/v1/tracks/1O5mTSQa0sCce9ghhDqIZl",
+      "id": "1O5mTSQa0sCce9ghhDqIZl",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Jashn-E-Bahaaraa",
+      "popularity": 72,
+      "preview_url": "https://p.scdn.co/mp3-preview/3d0f403f2c8f6f4c93f9cf285effc3145764c968?cid=d373fb6560d24ad5a0cfed75ae7c1e64",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:1O5mTSQa0sCce9ghhDqIZl"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+            "id": "1mYsTxnqsietFxj1OgoGbG",
+            "name": "A.R. Rahman",
+            "type": "artist",
+            "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+            },
+            "href": "https://api.spotify.com/v1/artists/2fMqTqiTxUDlmcOEPaQSsx",
+            "id": "2fMqTqiTxUDlmcOEPaQSsx",
+            "name": "Amitabh Bhattacharya",
+            "type": "artist",
+            "uri": "spotify:artist:2fMqTqiTxUDlmcOEPaQSsx"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/0DUOcMjmHGVLqFkWqfNC0z"
+        },
+        "href": "https://api.spotify.com/v1/albums/0DUOcMjmHGVLqFkWqfNC0z",
+        "id": "0DUOcMjmHGVLqFkWqfNC0z",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2731c7bfe8d9d66076ac648c4a1",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e021c7bfe8d9d66076ac648c4a1",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048511c7bfe8d9d66076ac648c4a1",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Mimi (Original Motion Picture Soundtrack)",
+        "release_date": "2021-07-16",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:0DUOcMjmHGVLqFkWqfNC0z"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+          },
+          "href": "https://api.spotify.com/v1/artists/0oOet2f43PA68X5RxKobEy",
+          "id": "0oOet2f43PA68X5RxKobEy",
+          "name": "Shreya Ghoshal",
+          "type": "artist",
+          "uri": "spotify:artist:0oOet2f43PA68X5RxKobEy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 200218,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INS172102500"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/3KeMulXbLDJBQdY5PZbGEh"
+      },
+      "href": "https://api.spotify.com/v1/tracks/3KeMulXbLDJBQdY5PZbGEh",
+      "id": "3KeMulXbLDJBQdY5PZbGEh",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Param Sundari",
+      "popularity": 71,
+      "preview_url": "https://p.scdn.co/mp3-preview/527c8750e5798f97e84d608fac308880ccb54081?cid=d373fb6560d24ad5a0cfed75ae7c1e64",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:3KeMulXbLDJBQdY5PZbGEh"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+            "id": "1mYsTxnqsietFxj1OgoGbG",
+            "name": "A.R. Rahman",
+            "type": "artist",
+            "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/6kWI9GDPhMhaGNo80Q1XT5"
+        },
+        "href": "https://api.spotify.com/v1/albums/6kWI9GDPhMhaGNo80Q1XT5",
+        "id": "6kWI9GDPhMhaGNo80Q1XT5",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b2730504fdf58bae8cd52dd13047",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e020504fdf58bae8cd52dd13047",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d000048510504fdf58bae8cd52dd13047",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Guru (Original Motion Picture Soundtrack)",
+        "release_date": "2006-09-11",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:6kWI9GDPhMhaGNo80Q1XT5"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ"
+          },
+          "href": "https://api.spotify.com/v1/artists/5UJ2sHO2ELrgW6aXeRLTQQ",
+          "id": "5UJ2sHO2ELrgW6aXeRLTQQ",
+          "name": "Chinmayi",
+          "type": "artist",
+          "uri": "spotify:artist:5UJ2sHO2ELrgW6aXeRLTQQ"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/3v8isPrc8btWVMF3bnOIcj"
+          },
+          "href": "https://api.spotify.com/v1/artists/3v8isPrc8btWVMF3bnOIcj",
+          "id": "3v8isPrc8btWVMF3bnOIcj",
+          "name": "Murtuza Khan",
+          "type": "artist",
+          "uri": "spotify:artist:3v8isPrc8btWVMF3bnOIcj"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2gTPBFjo3M9rvMSZWTk9nT"
+          },
+          "href": "https://api.spotify.com/v1/artists/2gTPBFjo3M9rvMSZWTk9nT",
+          "id": "2gTPBFjo3M9rvMSZWTk9nT",
+          "name": "Qadir Khan",
+          "type": "artist",
+          "uri": "spotify:artist:2gTPBFjo3M9rvMSZWTk9nT"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 309640,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INS170601060"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/4FeczSomVWVyU4FW7xDeAI"
+      },
+      "href": "https://api.spotify.com/v1/tracks/4FeczSomVWVyU4FW7xDeAI",
+      "id": "4FeczSomVWVyU4FW7xDeAI",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Tere Bina",
+      "popularity": 71,
+      "preview_url": "https://p.scdn.co/mp3-preview/fbe24dd1f71206c13ef9d80be7e29822571cb67f?cid=d373fb6560d24ad5a0cfed75ae7c1e64",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:4FeczSomVWVyU4FW7xDeAI"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+            "id": "1mYsTxnqsietFxj1OgoGbG",
+            "name": "A.R. Rahman",
+            "type": "artist",
+            "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+          },
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+            },
+            "href": "https://api.spotify.com/v1/artists/3GdSQUH1BRtl9UrrtuwJlP",
+            "id": "3GdSQUH1BRtl9UrrtuwJlP",
+            "name": "Irshad Kamil",
+            "type": "artist",
+            "uri": "spotify:artist:3GdSQUH1BRtl9UrrtuwJlP"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/3RZxrS2dDZlbsYtMRM89v8"
+        },
+        "href": "https://api.spotify.com/v1/albums/3RZxrS2dDZlbsYtMRM89v8",
+        "id": "3RZxrS2dDZlbsYtMRM89v8",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b27354e544672baa16145d67612b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e0254e544672baa16145d67612b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d0000485154e544672baa16145d67612b",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Rockstar",
+        "release_date": "2011-10-01",
+        "release_date_precision": "day",
+        "total_tracks": 15,
+        "type": "album",
+        "uri": "spotify:album:3RZxrS2dDZlbsYtMRM89v8"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+          },
+          "href": "https://api.spotify.com/v1/artists/4W91bbPB2CTSsHwt7eqNl7",
+          "id": "4W91bbPB2CTSsHwt7eqNl7",
+          "name": "Javed Ali",
+          "type": "artist",
+          "uri": "spotify:artist:4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+          },
+          "href": "https://api.spotify.com/v1/artists/5GnnSrwNCGyfAU4zuIytiS",
+          "id": "5GnnSrwNCGyfAU4zuIytiS",
+          "name": "Mohit Chauhan",
+          "type": "artist",
+          "uri": "spotify:artist:5GnnSrwNCGyfAU4zuIytiS"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 470500,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INS181103501"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7F8RNvTQlvbeBLeenycvN6"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7F8RNvTQlvbeBLeenycvN6",
+      "id": "7F8RNvTQlvbeBLeenycvN6",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Kun Faya Kun",
+      "popularity": 71,
+      "preview_url": "https://p.scdn.co/mp3-preview/b360644d52e45bc64340b5e3e7885a67c9801631?cid=d373fb6560d24ad5a0cfed75ae7c1e64",
+      "track_number": 4,
+      "type": "track",
+      "uri": "spotify:track:7F8RNvTQlvbeBLeenycvN6"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+            "id": "1mYsTxnqsietFxj1OgoGbG",
+            "name": "A.R. Rahman",
+            "type": "artist",
+            "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/1fYpftlxL5gVVKIz8kZ8lr"
+        },
+        "href": "https://api.spotify.com/v1/albums/1fYpftlxL5gVVKIz8kZ8lr",
+        "id": "1fYpftlxL5gVVKIz8kZ8lr",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273809bf7d9ca23a1056904ed3d",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02809bf7d9ca23a1056904ed3d",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851809bf7d9ca23a1056904ed3d",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "I (Original Motion Picture Soundtrack)",
+        "release_date": "2014-09-18",
+        "release_date_precision": "day",
+        "total_tracks": 7,
+        "type": "album",
+        "uri": "spotify:album:1fYpftlxL5gVVKIz8kZ8lr"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+          },
+          "href": "https://api.spotify.com/v1/artists/7qjJw7ZM2ekDSahLXPjIlN",
+          "id": "7qjJw7ZM2ekDSahLXPjIlN",
+          "name": "Sid Sriram",
+          "type": "artist",
+          "uri": "spotify:artist:7qjJw7ZM2ekDSahLXPjIlN"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/5UqyE5tsMWcrOAjOtROW6B"
+          },
+          "href": "https://api.spotify.com/v1/artists/5UqyE5tsMWcrOAjOtROW6B",
+          "id": "5UqyE5tsMWcrOAjOtROW6B",
+          "name": "Sunitha Sarathy",
+          "type": "artist",
+          "uri": "spotify:artist:5UqyE5tsMWcrOAjOtROW6B"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 352710,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INS171402082"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/7mLEUzAulFygMchoGMrP8E"
+      },
+      "href": "https://api.spotify.com/v1/tracks/7mLEUzAulFygMchoGMrP8E",
+      "id": "7mLEUzAulFygMchoGMrP8E",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Ennodu Nee Irundhaal",
+      "popularity": 71,
+      "preview_url": "https://p.scdn.co/mp3-preview/ef2ea726f55b8bea53125aaa6a40e8515015d7ce?cid=d373fb6560d24ad5a0cfed75ae7c1e64",
+      "track_number": 2,
+      "type": "track",
+      "uri": "spotify:track:7mLEUzAulFygMchoGMrP8E"
+    },
+    {
+      "album": {
+        "album_type": "album",
+        "artists": [
+          {
+            "external_urls": {
+              "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+            },
+            "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+            "id": "1mYsTxnqsietFxj1OgoGbG",
+            "name": "A.R. Rahman",
+            "type": "artist",
+            "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+          }
+        ],
+        "external_urls": {
+          "spotify": "https://open.spotify.com/album/24C47633GRlozws7WBth7t"
+        },
+        "href": "https://api.spotify.com/v1/albums/24C47633GRlozws7WBth7t",
+        "id": "24C47633GRlozws7WBth7t",
+        "images": [
+          {
+            "height": 640,
+            "url": "https://i.scdn.co/image/ab67616d0000b273a00249b8bf77312ec156dd4b",
+            "width": 640
+          },
+          {
+            "height": 300,
+            "url": "https://i.scdn.co/image/ab67616d00001e02a00249b8bf77312ec156dd4b",
+            "width": 300
+          },
+          {
+            "height": 64,
+            "url": "https://i.scdn.co/image/ab67616d00004851a00249b8bf77312ec156dd4b",
+            "width": 64
+          }
+        ],
+        "is_playable": true,
+        "name": "Raanjhanaa (Original Motion Picture Soundtrack)",
+        "release_date": "2013-05-31",
+        "release_date_precision": "day",
+        "total_tracks": 9,
+        "type": "album",
+        "uri": "spotify:album:24C47633GRlozws7WBth7t"
+      },
+      "artists": [
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+          },
+          "href": "https://api.spotify.com/v1/artists/1mYsTxnqsietFxj1OgoGbG",
+          "id": "1mYsTxnqsietFxj1OgoGbG",
+          "name": "A.R. Rahman",
+          "type": "artist",
+          "uri": "spotify:artist:1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/2IP4wcE4hRbDi1zdV8Si6g"
+          },
+          "href": "https://api.spotify.com/v1/artists/2IP4wcE4hRbDi1zdV8Si6g",
+          "id": "2IP4wcE4hRbDi1zdV8Si6g",
+          "name": "Jaswinder Singh",
+          "type": "artist",
+          "uri": "spotify:artist:2IP4wcE4hRbDi1zdV8Si6g"
+        },
+        {
+          "external_urls": {
+            "spotify": "https://open.spotify.com/artist/7DcUua74PM7MmBljTTjIyy"
+          },
+          "href": "https://api.spotify.com/v1/artists/7DcUua74PM7MmBljTTjIyy",
+          "id": "7DcUua74PM7MmBljTTjIyy",
+          "name": "Shiraz Uppal",
+          "type": "artist",
+          "uri": "spotify:artist:7DcUua74PM7MmBljTTjIyy"
+        }
+      ],
+      "disc_number": 1,
+      "duration_ms": 254653,
+      "explicit": false,
+      "external_ids": {
+        "isrc": "INS171300392"
+      },
+      "external_urls": {
+        "spotify": "https://open.spotify.com/track/5OMUXgfXsSukZ0zxelpC3b"
+      },
+      "href": "https://api.spotify.com/v1/tracks/5OMUXgfXsSukZ0zxelpC3b",
+      "id": "5OMUXgfXsSukZ0zxelpC3b",
+      "is_local": false,
+      "is_playable": true,
+      "name": "Raanjhanaa",
+      "popularity": 70,
+      "preview_url": "https://p.scdn.co/mp3-preview/15f90f93a233c9563d073840c39d2296f0bc077c?cid=d373fb6560d24ad5a0cfed75ae7c1e64",
+      "track_number": 1,
+      "type": "track",
+      "uri": "spotify:track:5OMUXgfXsSukZ0zxelpC3b"
+    }
+  ]
+}
