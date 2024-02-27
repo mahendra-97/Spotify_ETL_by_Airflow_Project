@@ -3,6 +3,7 @@ from spotipy.oauth2 import SpotifyClientCredentials
 import json
 import pandas as pd
 from datetime import datetime
+# from azure.storage.blob import BlobServiceClient
 import s3fs 
 
 
@@ -50,3 +51,16 @@ def spotify_data_load(**kwargs):
     ti = kwargs['ti']
     df_tracks = ti.xcom_pull(task_ids='transform_spotify_data')
     df_tracks.to_csv("s3://spotify-airflow-project/toptracksdata.csv", index=False)
+
+    # # Replace your Azure Storage account details
+    # azure_account_name = 'spotifyairflow'
+    # azure_account_key = 'azure_account_key'
+    # azure_container = 'spotify-data'
+    # azure_blob_path = 'toptracksdata.csv'
+
+    # blob_service_client = BlobServiceClient(account_url=f"https://{azure_account_name}.blob.core.windows.net", credential=azure_account_key)
+    # blob_client = blob_service_client.get_blob_client(container=azure_container, blob=azure_blob_path)
+
+    # csv_data = df_tracks.to_csv(index=False)
+    # blob_client.upload_blob(csv_data, overwrite=True)
+
