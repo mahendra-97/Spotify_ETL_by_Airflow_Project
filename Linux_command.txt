@@ -1,0 +1,24 @@
+sudo apt-get update
+sudo apt install python3-pip
+sudo pip install apache-airflow
+#if above apache-airflow Installation doesn't works
+#pip install "apache-airflow[celery]==2.8.2" --constraint "https://raw.githubusercontent.com/apache/airflow/constraints-2.8.2/constraints-3.8.txt"
+#pip install "apache-airflow==2.8.2" apache-airflow-providers-google==10.1.1
+sudo pip install pandas 
+sudo pip install spotipy
+sudo pip install s3fs
+#sudo pip install azure-storage-blob
+sudo apt  install awscli
+
+airflow standalone
+#if airflow doesn't start with above command
+#airflow db init 
+#airflow webserver --port 8080
+
+cd airflow
+
+sudo nano airflow.cfg ---make changes in dags_folder
+
+mkdir spotify_dags
+
+upload spotify_dag.py and spotify_etl.py to spotify_dags directory
